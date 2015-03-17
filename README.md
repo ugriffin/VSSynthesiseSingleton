@@ -4,7 +4,7 @@ www.urielgriffin.com / www.vetragames.com
 Easy to use C++ singleton macro. Quickly and easily turn your class into a singleton with two lines of code, one in the class declaration and one in the implementation. 
 
 # How to use:
-Simply import VSSynthesiseSingleton.h into your class header, and call VS_DECLARESINGLETON( _classname_, _accessorname_ ); where _classname_ stands for the actual name of your class, and _accessorname_ stands for the accessor name you wish to use for your singleton. Some example code:
+Simply import <b>VSSynthesiseSingleton.h</b> into your class header, and call VS_DECLARESINGLETON( _classname_, _accessorname_ ); where _classname_ stands for the actual name of your class, and _accessorname_ stands for the accessor name you wish to use for your singleton. Some example code:
 
 MySingleton.h
 

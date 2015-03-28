@@ -44,7 +44,7 @@ void destroy();\
 \
 public:\
 \
-__CLASSNAME__* __ACCESSORNAME__();\
+static __CLASSNAME__* __ACCESSORNAME__();\
 ~__CLASSNAME__();\
 
 
